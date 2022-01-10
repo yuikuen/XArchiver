@@ -21,7 +21,7 @@
 
 你可通过 [爱发电](https://www.afdian.net/@vscodev) 平台订阅 `XArchiver` ，支付成功后爱发电会自动通过私信将兑换码发送给你，请在48小时内凭兑换码前往 https://www.xarchiver.tk/act 激活授权，长时间未激活系统将进行回收。
 
-激活成功后系统会发送帐号授权码至你的邮箱（未收到请检查垃圾箱），如果你是初次订阅或忘记密码，请使用帐号授权码 [重置密码](https://www.xarchiver.tk/user_auth?tab=reset_password) 即可正常登录。
+成功激活后请妥善保管你的帐号信息，如果你忘记登录密码，使用帐号授权码 [重置密码](https://www.xarchiver.tk/user_auth?tab=reset_password) 后即可正常登录。
 
 :no_entry_sign: `XArchiver` 帐号仅限本人使用，不得分享、外借或转让。如果你滥用本站提供的服务，系统有权在不通知的情况下封设备、封IP、封帐号！
 
