@@ -1,6 +1,6 @@
 # XArchiver
 
-:disappointed_relieved: 网上下载的压缩包资源找不到解压密码？欢迎使用 `XArchiver` 碰碰运气~ :sunglasses:
+网上下载的压缩包资源找不到解压密码？欢迎使用 `XArchiver` 碰碰运气~
 
 ![XArchiver](https://cdn.jsdelivr.net/gh/vscodev/XArchiver/XArchiver.png)
 
@@ -23,5 +23,8 @@
 
 成功激活后请妥善保管你的帐号信息，如果你忘记登录密码，使用帐号授权码 [重置密码](https://www.xarchiver.tk/user_auth?tab=reset_password) 后即可正常登录。
 
-:no_entry_sign: `XArchiver` 帐号仅限本人使用，不得分享、外借或转让。如果你滥用本站提供的服务，系统有权在不通知的情况下封设备、封IP、封帐号！
+## 注意事项
 
+`XArchiver` 仅为你找到解压密码提供一种可能，不对成功率作任何保证！关闭登录对话框可试用软件，请在客户端提示破解成功后再订阅。
+
+:no_entry_sign: `XArchiver` 帐号仅限本人使用，不得分享、外借或转让。如果你滥用本站提供的服务，系统有权在不通知的情况下封设备、封IP、封帐号！
